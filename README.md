@@ -1,0 +1,1 @@
+# mynextjs-project
